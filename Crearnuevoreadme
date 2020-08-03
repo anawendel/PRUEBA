@@ -1,2 +1,6 @@
 # Como crear un nuevo README? (Archivo .md)
 ## Jugando con GIT 
+
+Dentro del repositorio, voy a Add file -> Create new file, agrego una descripción (comentario) y le doy en guardar.
+Luego abro GitKraken -> Pull (descargo y actualizo la info en la pc). Después voy a VSCode y edito el archivo .md nuevo.
+Una vez editado, lo guardo. Voy a GitKraken, selecciono la edición, escribo un comentario y guardo. Para resubirlo le doy en Push.
